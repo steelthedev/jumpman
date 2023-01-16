@@ -41,7 +41,7 @@
         <v-img
         class="bg-white  text-center"
         
-        width="500"
+        width="100%"
         :aspect-ratio="1"
         src="jumpman.png"
         cover
